@@ -1,0 +1,7 @@
+B:\Programs that will wear out the SSD\steamapps\common\Elin\Package\Mod_transpiler_study\transpiler_study.dll
+B:\Programs that will wear out the SSD\steamapps\common\Elin\Package\Mod_transpiler_study\transpiler_study.pdb
+C:\Users\Dominic\RiderProjects\transpiler_study\obj\Debug\transpiler_study.csproj.AssemblyReference.cache
+C:\Users\Dominic\RiderProjects\transpiler_study\obj\Debug\transpiler_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominic\RiderProjects\transpiler_study\obj\Debug\transpiler_study.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\RiderProjects\transpiler_study\obj\Debug\transpiler_study.dll
+C:\Users\Dominic\RiderProjects\transpiler_study\obj\Debug\transpiler_study.pdb
